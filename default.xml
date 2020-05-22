@@ -15,4 +15,5 @@
   <project name="meta-st-stm32mp-addons" path="layers/meta-st/meta-st-stm32mp-addons" revision="ef975cf09260b1e30a21384d2b1e751e6729d219"/>
   <project name="meta-st-scripts" path="layers/meta-st/scripts" revision="1eb70bb452a0eb3c0cde5b62c9a96c54b91fc334"/>
   <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="cd7cf933b3235560ec71576d8f3836dff736a39f"/>
+  <project name="Boldie/meta-exut" path="layers/meta-exut" remote="github" revision="fc0c14ace6d437ff90ec766a82174d03d9fb43bb"/>
 </manifest>
